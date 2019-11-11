@@ -1,0 +1,16 @@
+django==2.2.5
+django-storages==1.7.2
+google-cloud-storage==1.19.0
+django-filter==2.2.0
+drf-yasg==1.16.1
+gunicorn==19.9.0
+colorlog==4.0.2
+django-cors-headers==3.1.0
+psycopg2-binary==2.8.3
+django-redis==4.10.0
+django-oauth-toolkit==1.2.0
+djangorestframework==3.10.3
+django-extensions==2.2.1
+packaging==19.1
+PyJWT==1.6.4
+gevent==1.4
