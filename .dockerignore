@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# git, to avoid overloading disk by a bunch of large pack files
+.git
+
+# Editor
+*.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+db.sqlite3
+
+# media
+media/*
+upload/*
