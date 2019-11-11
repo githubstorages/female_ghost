@@ -2,7 +2,6 @@ FROM python:3.8.0
 WORKDIR /usr/src/app
 EXPOSE 8000
 
-ENV PYTHONUNBUFFERED 1
 
 RUN apt-get update &&  \
     apt-get install vim -y
