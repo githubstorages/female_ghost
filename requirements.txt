@@ -1,4 +1,4 @@
-django==2.2.5
+django==2.2.22
 django-storages==1.7.2
 google-cloud-storage==1.19.0
 django-filter==2.2.0
