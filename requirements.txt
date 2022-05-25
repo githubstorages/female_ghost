@@ -12,5 +12,5 @@ django-oauth-toolkit==1.2.0
 djangorestframework==3.10.3
 django-extensions==2.2.1
 packaging==19.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 gevent==1.4
